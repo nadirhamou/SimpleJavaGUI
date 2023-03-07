@@ -6,7 +6,5 @@ public class Start {
 		System.out.println("Hello world");
 		//this class displays Hello world message
 		//this is a comment
-
-	}
-
+	}	
 }
